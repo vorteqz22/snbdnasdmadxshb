@@ -2,6 +2,8 @@
   "viper-2192917": {
     "blacklisted": false,
     "discord_id": "1255423723578855496",
+    "cfx_key": "cfxk_e3KvrpaJYfO7vr88KxhQ_31OUG4",
+    "ip_address": "93.214.162.58",  // Ersetze durch die tatsächliche IP-Adresse deines Servers
     "reason": "No reason provided"
   }
 }
